@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! 👋 I'm Magda
+I'm a passionate software developer with a drive for accessibility-first, beautifully crafted applications. Through my work, I’m on a mission to make the digital world more inclusive, ensuring no one is left behind due to barriers in technology.
 
-<!--
-**magdalenajadach/magdalenajadach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 My Focus Areas
+Accessibility: Dedicated to improving inclusivity in web applications, from implementing accessibility tools to leading knowledge-sharing sessions.
+Web Development: With hands-on experience in React, Next.js, Node, Docker, and AWS, I craft responsive, well-tested applications.
+Optimization and Collaboration: I love working with cross-functional teams to optimize and deliver seamless, efficient user experiences.
 
-Here are some ideas to get you started:
+🌲 Outside of Code
+When I'm not immersed in code, you’ll find me outdoors, embracing the mud and grit while running or climbing. Whether it’s a tough trail run or scaling a new crag, my love for challenges extends beyond the screen!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by – let's make the web a better place together! ✨
+
