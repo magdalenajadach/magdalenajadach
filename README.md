@@ -5,7 +5,9 @@ I'm a passionate software developer with a drive for accessibility-first, beauti
 🔍 My focus areas
 
 **Accessibility:** Dedicated to improving inclusivity in web applications, from implementing accessibility tools to leading knowledge-sharing sessions.
+
 **Web Development:** With hands-on experience in React, Next.js, Node, Docker, and AWS, I craft responsive, well-tested applications.
+
 **Optimization and collaboration:** I love working with cross-functional teams to optimize and deliver seamless, efficient user experiences.
 
 🌲 Outside of computers
