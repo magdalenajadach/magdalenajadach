@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Magda 🖤
+Hi there! 🍡 I'm Magda 
 
 I'm a passionate software developer with a drive for accessibility-first, beautifully crafted applications. Through my work, I’m on a mission to make the digital world more inclusive, ensuring no one is left behind due to barriers in technology.
 
