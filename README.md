@@ -1,8 +1,8 @@
-Hi there! 🍡 I'm Magda 
+# Hi there! 🍡 I'm Magda 
 
 I'm a passionate software developer with a drive for accessibility-first, beautifully crafted applications. Through my work, I’m on a mission to make the digital world more inclusive, ensuring no one is left behind due to barriers in technology.
 
-🔍 My focus areas
+## 🔍 My focus areas
 
 **Accessibility:** Dedicated to improving inclusivity in web applications, from implementing accessibility tools to leading knowledge-sharing sessions.
 
@@ -10,7 +10,7 @@ I'm a passionate software developer with a drive for accessibility-first, beauti
 
 **Optimization and collaboration:** I love working with cross-functional teams to optimize and deliver seamless, efficient user experiences.
 
-🌲 Outside of computers
+## 🌲 Outside of computers
 
 When I'm not immersed in code, you’ll find me outdoors, embracing the mud and grit while running or climbing. Whether it’s a tough trail run or scaling a new crag, my love for challenges extends beyond the screen.
 
